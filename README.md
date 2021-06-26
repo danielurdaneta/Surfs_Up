@@ -2,7 +2,7 @@
 
 ## Overview of the project
 
-The purpose of this project was to determine if the weather conditions on the island of Oahu are suitable for a surf shop, using a SQLite database, Jupyter Notebook, SQLAlchemy, Pandas and Python, we made inquiries and obtained useful information on whether this investment is worth it.
+The purpose of this project was to determine if the weather conditions on the island of Oahu are suitable for a surf shop, using a SQLite database, Jupyter Notebook, SQLAlchemy, Pandas, we made inquiries and obtained useful information on whether this investment is worth it.
 
 ## Results
 
